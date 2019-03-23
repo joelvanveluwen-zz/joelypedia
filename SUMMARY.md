@@ -11,7 +11,7 @@
   * [Golang](programming-languages/golang.md)
   * [Python](programming-languages/python.md)
 * [Tools that make life easier](tools-that-make-life-easier.md)
-* [Health analytics](health-analytics.md)
+* [Quantified self](health-analytics.md)
 * [Identity theft](untitled.md)
 * [Creativity](creativity.md)
 * [Hardware](hardware.md)
