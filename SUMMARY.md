@@ -11,6 +11,7 @@
   * [Python](programming-languages/python.md)
 * [Tools that make life easier](tools-that-make-life-easier.md)
 * [Health analytics](health-analytics.md)
-* [Untitled](untitled.md)
+* [Identity theft](untitled.md)
 * [Creativity](creativity.md)
+* [Hardware](hardware.md)
 
