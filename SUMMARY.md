@@ -17,6 +17,7 @@
 * [Hardware](hardware/README.md)
   * [Raspberry Pi](hardware/raspberry-pi/README.md)
     * [Headless SSH for Pi 3](hardware/raspberry-pi/headless-ssh-for-pi-3.md)
+    * [Config when starting](hardware/raspberry-pi/config-when-starting.md)
 * [Web development](web-development.md)
 * [Git](git/README.md)
   * [Github with 2FA](git/github-with-2fa.md)
