@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Analytics](analytics.md)
-* [Learning data science and machine learning](learning-data-science-and-machine-learning.md)
 * [Data science / machine learning](data-science/README.md)
+  * [Learning data science and machine learning](data-science/learning-data-science-and-machine-learning.md)
   * [Application of data science \(useful\)](data-science/application-of-data-science-useful.md)
   * [Applications of data science \(fun\)](data-science/applications-of-data-science-fun.md)
 * [Devops](devops.md)
@@ -16,4 +16,6 @@
 * [Creativity](creativity.md)
 * [Hardware](hardware.md)
 * [Web development](web-development.md)
+* [Git](git/README.md)
+  * [Github with 2FA](git/github-with-2fa.md)
 
