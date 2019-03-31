@@ -10,6 +10,8 @@
 * [Programming languages](programming-languages/README.md)
   * [Golang](programming-languages/golang.md)
   * [Python](programming-languages/python/README.md)
+    * [Jupyter](programming-languages/python/jupyter/README.md)
+      * [Generate configs](programming-languages/python/jupyter/generate-configs.md)
     * [Libraries](programming-languages/python/libraries.md)
 * [Tools that make life easier](tools-that-make-life-easier.md)
 * [Quantified self](health-analytics.md)
