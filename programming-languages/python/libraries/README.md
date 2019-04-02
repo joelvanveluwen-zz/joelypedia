@@ -10,3 +10,7 @@
 * Plotly
   * Weirdly decent docs at [https://plot.ly/python/](https://plot.ly/python/)
 
+**Data manipulation**
+
+* Pandas
+
